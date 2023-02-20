@@ -6,9 +6,8 @@ import org.junit.jupiter.api.Test;
 
 class BinaryTreeTest {
 
-    @Test
-    void test() {
-        fail("Not yet implemented");
-    }
-
+  @Test
+  void test() {
+    fail("Not yet implemented");
+  }
 }
